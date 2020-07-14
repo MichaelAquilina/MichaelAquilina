@@ -2,7 +2,7 @@ Hi there, I'm Mike :)
 
 Here's a bit about me:
 
-* Based in London, UK 🇬
+* Based in London, UK 🇬🇧
 * Originally from Malta 🇲🇹
 * Mainly code in Python and Django during my day job 🐍
 * Currently in love with Rust 🦀
