@@ -1,11 +1,13 @@
-Hi there, I'm Mike :)
+```
+$ cat /proc/self/environ
+ _          _ _
+| |__   ___| | | ___
+| '_ \ / _ \ | |/ _ \
+| | | |  __/ | | (_) |
+|_| |_|\___|_|_|\___/
 
-Here's a bit about me:
+NAME=Michael Aquilina
+LOCATION=London, UK
 
-* Based in London, UK 🇬🇧
-* Originally from Malta 🇲🇹
-* Mainly code in Python and Django during my day job 🐍
-* Currently in love with Rust 🦀
-* Maintainer of several semi-popular open source zsh plugins 💡
-* Constantly looking for open source projects to work on.
-* Take a look at some my favourite personal projects below!
+PGP=CF25BE52E23E1070FE93D2FC636066730B056BD1
+```
